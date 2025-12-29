@@ -107,4 +107,27 @@ router.post("/activate", (req, res) => {
   res.json({ success: true, message: "Licence activée" });
 });
 
+
+router.get("/",  (req, res) => {
+  const data = readLicenses();
+
+  const license = data.licenses.find(
+    l => !l.active && !l.reserved
+  );
+
+  if (!license) {
+    return res.status(404).json({
+      success: false,
+      message: "Aucune licence disponible"
+    });
+  }
+
+  res.json({
+    success: true,
+    license_key: license.key
+  });
+});
+
+
+
 module.exports = router;
