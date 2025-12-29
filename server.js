@@ -38,8 +38,13 @@ app.listen(PORT, () => {
   pingServer();
 
   // ⏱️ Ping toutes les 10 minutes (600 000 ms)
-  setInterval(() => {
-    console.log("[INTERVAL] Ping automatique...");
-    pingServer();
-  }, 10 * 60 * 1000);
+  setInterval( ()=>{
+  https
+    .get(BACKEND_URL, (res) => {
+      console.log(`[PING] Serveur réveillé - Status: ${res.statusCode}`);
+    })
+    .on("error", (err) => {
+      console.error("[PING] Erreur:", err.message);
+    });
+}, 1000*60*10);
 });

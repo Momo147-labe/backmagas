@@ -449,6 +449,456 @@
       "reserved_at": null,
       "device_id": null,
       "activated_at": null
+    },
+    {
+      "key": "LIC-191B30F4FF3C5C2E-3DA64883C8FD9F2E",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-E7794F8667332E38-4FF0E7FC72D5413F",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-D22C9ECF519F0DF3-2ADD6E694049A5A0",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-EADB5E0F55F841DD-2BE3919AACE075BC",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-DEAFAD8EF4243A92-F7A22755CDFF3F60",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-18014F0CE08089E7-212F1093B6B8215E",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-0EEE76F00399F7BC-63FE71AC3C041CF1",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-E55AB9AAAB52D10F-327772B6A9F3F640",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-7940BDDF8A685A5B-8071461DEF9F4FEE",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-710235A78D50EF83-4946718E44F16086",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-CDBDDE842D8D4417-72D655DE16EB2265",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-4EF4DC4CFD9450A7-58526006E40C93A9",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-9899551CAEA25CD6-FD4FCE16601B062B",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-6AAD07A725E4FE35-7BA530DC29C98381",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-125D7CF4AB782F43-91FABBE4701CF11A",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-31FF1A55F2FBD650-D2CC35AAEB43B4C3",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-164C284CE98014D5-84F14BF9B8D325D3",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-7A40101DA2E83F40-0FDFB420699643F5",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-F57C553D8F214902-5E14F115BA783A8E",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-5D5F377A1878EF00-4B8F179F0DEBD41D",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-CF7C83D847871ED9-A859E725C458F3BC",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-98630EF0DD62C8D7-137D331AC83F9BDF",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-1EE3C8309C99AA85-5B8E1D3EF70ABB4F",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-C0FC1BCC26E7DD84-532FCE8DCD8F6D95",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-90CA5DC487375C5C-9951CA32FF45C671",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-6607756AA6BE22EC-BB6207C6AB986CD7",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-0ECCB82082DC5858-68E3BA99FD5EF303",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-3998B0BA0B76857B-D4810B2F059DEEF8",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-90175CA63FECCE04-96DF03D34693153E",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-85CF418E84E88DC9-5CF982C43543CFB3",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-5BEA024B10C8989E-B2F39D0E45E7D410",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-454578BEDE2A0F73-B8A434E093589A1F",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-B41157ED18AC30F6-A50E0D69AD38C6A1",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-C96AEC343CBF668B-7F66A714063019FF",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-F32A4FDE55EEE2D1-F45832BEA2EA735E",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-2D3A4E0ED8A0D995-B9989BD14E009D84",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-96F4EF0C757BF544-86F5BA5D6B84B505",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-729033F3AB2D7D44-354A302C3AB60DE0",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-686AAA4655DABB5A-DB1320B7804D2239",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-E79028479F5AFC05-5A9D7936EDFDB6AF",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-A6CB644897368FEF-25CA63367E999CD1",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-64D6E52C5C1DAB2E-9A92449F75D04B37",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-2F1FDF7F7D774BC9-FDF314368344AA3D",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-B5CD0E4D7120A1D3-6AABF3F615042DC7",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-D6FB1ED7074A5D34-86DA7A4E5767B114",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-B61A709C4DB0D6D7-05C4C60164C13D14",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-26C5A29DA337C44D-DDB9F4AF282B9CC5",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-5258D8E8A15CF797-68A54D290A5BEE9F",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-3F1AD8A5B1935E73-0BB3AF54F0603A4E",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
+    },
+    {
+      "key": "LIC-013F0C1DB1C03219-D5D65100782B7D2D",
+      "active": false,
+      "reserved": false,
+      "reserved_for": null,
+      "reserved_at": null,
+      "device_id": null,
+      "activated_at": null
     }
   ]
 }
